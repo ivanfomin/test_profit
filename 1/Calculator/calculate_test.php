@@ -57,7 +57,7 @@ if ($res == INF) {
 
 $res = calc(100, 100, '*');
 
-if ($res < 10000) {
+if ($res < 10_000) {
     echo 'Not Pass' . PHP_EOL;
 } else {
     echo 'Pass' . PHP_EOL;
@@ -89,7 +89,7 @@ if ($res < 0) {
 
 $res = calc(100, 100, '*');
 
-if ($res > 10000) {
+if ($res > 10_000) {
     echo 'Not Pass' . PHP_EOL;
 } else {
     echo 'Pass' . PHP_EOL;
