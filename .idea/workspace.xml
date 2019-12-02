@@ -1,9 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdc170b0-e9fc-4a79-b52b-6cacba456565" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/Calculator/calculate_test.php" beforeDir="false" afterPath="$PROJECT_DIR$/1/Calculator/calculate_test.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UORVgfQriWUJ8GEeTaRT5nrEkr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1" />
+      <recent name="$PROJECT_DIR$/1/Calculator" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdc170b0-e9fc-4a79-b52b-6cacba456565" name="Default Changelist" comment="" />
+      <created>1575225680074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575225680074</updated>
+      <workItem from="1575225681613" duration="783000" />
+      <workItem from="1575272235030" duration="522000" />
+    </task>
+    <task id="LOCAL-00001" summary="homeWork1.1">
+      <created>1575226127202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575226127202</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homeWork1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="homeWork1.1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="26" key="CommitChangelistDialog2" timestamp="1575226126984">
+      <screen x="0" y="0" width="1600" height="858" />
+    </state>
+    <state x="435" y="26" key="CommitChangelistDialog2/1600.0.1600.900/0.0.1600.858@0.0.1600.858" timestamp="1575226126984" />
+    <state x="400" y="165" key="Vcs.Push.Dialog.v2" timestamp="1575226130134">
+      <screen x="0" y="0" width="1600" height="858" />
+    </state>
+    <state x="400" y="165" key="Vcs.Push.Dialog.v2/1600.0.1600.900/0.0.1600.858@0.0.1600.858" timestamp="1575226130134" />
   </component>
 </project>
